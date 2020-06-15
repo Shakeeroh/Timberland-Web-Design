@@ -1,0 +1,135 @@
+body {
+    font-family:  'Lato', sans-serif;
+    background-color: #EEEEEE;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0 30px;
+}
+
+.timberland-container {
+    background-color: white;
+    width: 1440px;
+    height: 920px;
+    margin: 152px auto;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    height: 79px;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+hr {
+    border: 0.1px solid #EEEEEE;
+}
+
+.items-container {
+    width: 1281px;
+    height: 711px;
+    margin: 30px auto;
+    position: relative;
+}
+
+.recliners {
+    width: 515px;
+    height: 711px;
+    background-color: #EEEEEE;
+    
+}
+
+.img-recliners {
+    height: 639px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table-lamps {
+    width: 296px;
+    height: 344px;
+    background-color: #EEEEEE;
+    position: absolute;
+    left: 547px;
+    top: 0;
+}
+
+.img-table-lamps {
+    height: 272px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table-lamps-img {
+    margin-top: 60px;
+}
+
+.office-chairs {
+    width: 406px;
+    height: 344px;
+    background-color: #EEEEEE;
+    position: absolute;
+    left: 875px;
+    top: 0;
+}
+
+.img-office-chairs {
+    height: 272px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.office-chairs-img {
+    margin-top: 60px;
+}
+
+.sofas {
+    width: 734px;
+    height: 335px;
+    background-color: #EEEEEE;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.img-sofas {
+    height: 263px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sofa-img {
+    margin-top: 60px;
+}
+
+.title {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 14px;
+}
+
+p {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+}
+
+.arrow {
+    align-self: center;
+    margin-left: 8px;
+    margin-top: 8px;
+}
